@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const BlogCard = ({ blog }) => {
   return (
-    {/* Separation Line */}
+    // {/* Separation Line */}
     <div className="grid grid-cols-1 md:grid-cols-12 gap-6 py-10 border-t border-gray-300">
       
       {/* Section 1: Title & Date (Spans 3 cols) */}
